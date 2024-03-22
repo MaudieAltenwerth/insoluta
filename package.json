@@ -1,0 +1,49 @@
+{
+  "name": "insoluta",
+  "version": "1.0.0",
+  "description": "ObserveRTC Client Integration Javascript Library",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "engines": {
+    "node": ">=10"
+  },
+  "keywords": [
+    "webrtc",
+    "nostrum",
+    "nam",
+    "client",
+    "integration"
+  ],
+  "author": "ScarlettStrosin",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@observertc/sample-schemas-js": "^2.2.1-2c2113b.0",
+    "@types/events": "^3.0.0",
+    "@types/uuid": "^8.3.4",
+    "bowser": "^2.11.0",
+    "js-base64": "^3.7.2",
+    "loglevel": "^1.8.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.2",
+    "@typescript-eslint/eslint-plugin": "^5.38.0",
+    "@typescript-eslint/parser": "^5.38.0",
+    "bufferutil": "^4.0.6",
+    "eslint": "^8.24.0",
+    "jest": "^27.5.0",
+    "ts-jest": "^27.1.5",
+    "typedoc": "^0.22.18",
+    "typescript": "^4.8.3",
+    "utf-8-validate": "^5.0.8",
+    "pkgfiles": "2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaudieAltenwerth/insoluta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaudieAltenwerth/insoluta.git/issues"
+  },
+  "homepage": "https://github.com/MaudieAltenwerth/insoluta.git"
+}
